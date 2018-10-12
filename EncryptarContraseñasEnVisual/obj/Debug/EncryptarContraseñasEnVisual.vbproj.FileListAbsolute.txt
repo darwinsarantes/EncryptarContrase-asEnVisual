@@ -12,3 +12,5 @@ D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\EncryptarContrase�
 D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\EncryptarContraseñasEnVisual\EncryptarContraseñasEnVisual\obj\Debug\EncryptarContraseñasEnVisual.Resources.resources
 D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\EncryptarContraseñasEnVisual\EncryptarContraseñasEnVisual\obj\Debug\EncryptarContraseñasEnVisual.vbproj.GenerateResource.Cache
 D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\EncryptarContraseñasEnVisual\EncryptarContraseñasEnVisual\obj\Debug\EncryptarContraseñasEnVisual.xml
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\New folder\EncryptarContraseñasEnVisual\bin\Debug\EncryptarContraseñasEnVisual.exe.config
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\New folder\EncryptarContraseñasEnVisual\obj\Debug\EncryptarContraseñasEnVisual.xml
